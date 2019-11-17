@@ -1,0 +1,17 @@
+{
+  "name": "derzahal/package",
+  "description": "Composer package test",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PrzemysĹ‚aw Michalak",
+      "email": "przemichalak@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    
+  }
+}
+
